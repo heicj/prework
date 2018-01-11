@@ -1,7 +1,7 @@
 # prework
 
 codecademy Unit 3: PygLatin - part 10
-'''
+'''python
 pyg = 'ay'
 
 original = raw_input('Enter a word:')
