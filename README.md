@@ -1,6 +1,6 @@
 # prework
 
-##codecademy Unit 3: PygLatin - part 10
+## codecademy Unit 3: PygLatin - part 10
 ```
 pyg = 'ay'
 
@@ -17,7 +17,7 @@ else:
   print 'empty'
 ```
 
-##codecademy Unit 4: Taking a Vacation - part 7
+## codecademy Unit 4: Taking a Vacation - part 7
 
 ```
 def hotel_cost(nights):
